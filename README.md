@@ -1,2 +1,3 @@
 # VersatileESP32
-easy to take , graphic menu , Iot functions ，practical functions .
+Easy to take , graphic menu , Iot functions ，practical functions.
+The first version is based on ArduinoIDE.
